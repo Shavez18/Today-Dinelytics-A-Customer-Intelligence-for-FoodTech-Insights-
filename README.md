@@ -1,1 +1,1 @@
-# Today-Dinelytics-A-Customer-Intelligence-for-FoodTech-Insights-
+# Dinelytics-A-Customer-Intelligence-for-FoodTech-Insights-
